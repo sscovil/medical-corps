@@ -8,7 +8,7 @@ There are plenty of ways for you to help draft this bill and ensure its success,
 
 - Join in on the discussion on Facebook by liking, sharing and commenting on this post: https://www.facebook.com/shaun.scovil/posts/10214039159395625
 - Discuss the idea with friends, neighbors and co-workers, and encourage them to contriibute.
-- Read the known issues with the bill and help conduct research to find solutions and answers.
+- Read the [known issues](https://github.com/sscovil/medical-corps/issues) with the bill and help conduct research to find solutions and answers.
 - Help write the actual bill, esp. if you are a legislator or lawyer with relevant experience.
 - Make your voice heard if you oppose this idea, so we can understand why and attempt to address your concerns.
 
