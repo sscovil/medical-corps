@@ -6,7 +6,7 @@ Be it enacted by the Senate and House of Representatives of the United States of
 
 WHEREAS all people have the unalienable rights of life, liberty, and the pursuit of happiness;
 
-WHEREAS sickness, disease, and the financial burden of private health care that can result from them, pose a direct threat to these rights;
+WHEREAS sickness, disease, and the financial burdens of treatment pose a direct threat to these rights;
 
 WHEREAS it is the role of the Federal Government to provide for the common defense and promote the general welfare of the people;
 
