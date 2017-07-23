@@ -21,3 +21,5 @@ WHEREAS the Veterans Health Administration (VHA) operates one of the largest hea
 WHEREAS the Department of Veterans Affairs (VA) health care system currently includes 152 hospitals, 800 community-based outpatient clinics, 126 nursing home care units and 35 domiciliaries.
 
 WHEREAS the Public Health Service Commissioned Corps (PHSCC) was established to protect, promote, and advance the health and safety of the Nation through leadership and service;
+
+This bill would establish a Medical Corps in the Department of Health and Human Services (HHS), which would be an all-volunteer corps similar in organizational structure to the military, in which members hold a rank with a corresponding paygrade. Members of the Medical Corps would be provided medical education and training at no cost to the member, in exchange for a commitment to provide health care services to the public at no cost to the patient.
