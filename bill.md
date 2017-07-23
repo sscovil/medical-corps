@@ -18,7 +18,7 @@ WHEREAS the cost of medical education has a significant negative impact on the a
 
 WHEREAS the Veterans Health Administration (VHA) operates one of the largest health care systems in the world and currently provides training for a majority of the Nation's medical, nursing and allied health professionals;
 
-WHEREAS the Department of Veterans Affairs (VA) health care system currently includes 152 hospitals, 800 community-based outpatient clinics, 126 nursing home care units and 35 domiciliaries.
+WHEREAS the Department of Veterans Affairs (VA) health care system currently includes 152 hospitals, 800 community-based outpatient clinics, 126 nursing home care units and 35 domiciliaries;
 
 WHEREAS the Public Health Service Commissioned Corps (PHSCC) was established to protect, promote, and advance the health and safety of the Nation through leadership and service;
 
